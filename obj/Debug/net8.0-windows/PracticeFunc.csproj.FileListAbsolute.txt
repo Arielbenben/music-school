@@ -1,0 +1,16 @@
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\bin\Debug\net8.0-windows\PracticeFunc.exe
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\bin\Debug\net8.0-windows\PracticeFunc.deps.json
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\bin\Debug\net8.0-windows\PracticeFunc.runtimeconfig.json
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\bin\Debug\net8.0-windows\PracticeFunc.dll
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\bin\Debug\net8.0-windows\PracticeFunc.pdb
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.Form1.resources
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.csproj.GenerateResource.cache
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.AssemblyInfoInputs.cache
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.AssemblyInfo.cs
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.csproj.CoreCompileInputs.cache
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.dll
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\refint\PracticeFunc.dll
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.pdb
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\PracticeFunc.genruntimeconfig.cache
+C:\Users\relbh\source\repos\PracticeFunc\PracticeFunc\obj\Debug\net8.0-windows\ref\PracticeFunc.dll
